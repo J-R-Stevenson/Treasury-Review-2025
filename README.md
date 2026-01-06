@@ -8,11 +8,11 @@ Some charts are still present in the workbooks uploaded. However, several pivot 
 
 Here are the relevant workbooks for each section of the post:
 
-Headline Figures on the National Debt
--FederalSurplusDeficitGDP.xlsx
--InterestOutlays.xlsx
--InterestToGDP.xlsx
--totaldebtoutstanding.xlsx
+Headline Figures on the National Debt \
+- FederalSurplusDeficitGDP.xlsx
+- InterestOutlays.xlsx
+- InterestToGDP.xlsx
+- totaldebtoutstanding.xlsx
 
 
 
