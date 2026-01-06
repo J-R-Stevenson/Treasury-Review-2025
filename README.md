@@ -14,47 +14,27 @@ Headline Figures on the National Debt
 - InterestToGDP.xlsx
 - totaldebtoutstanding.xlsx
 
-
-
 Yields
-
-dailyparyields.xlsx
-
+- dailyparyields.xlsx
 
 Auctions
-
-bills_auction_data.xlx
-
-combinedauctiondata.xlsx
-
-notesbonds_auction_data.xlsx
-
-InvestorClassBills.xls
-
-InvestorClassCoupons.xls
-
+- bills_auction_data.xlx
+- combinedauctiondata.xlsx
+- notesbonds_auction_data.xlsx
+- InvestorClassBills.xls
+- InvestorClassCoupons.xls
 
 Foreign Ownership 
-
-TICData.xlsx
-
+- TICData.xlsx
 
 Maturity
-
-combinedauctiondata.xlsx
-
-totaldebtoutstanding.xlsx
-
+- combinedauctiondata.xlsx
+- totaldebtoutstanding.xlsx
 
 Fed Balance Sheet
-
-bills_auction_data.xlsx
-
-FedHoldings.xlsx
-
-notesbonds_auction_data.xlsx
-
+- bills_auction_data.xlsx
+- FedHoldings.xlsx
+- notesbonds_auction_data.xlsx
 
 Fed Funds and Long-term Yields
-
-YieldsFedFunds.xlsm
+- YieldsFedFunds.xlsm
